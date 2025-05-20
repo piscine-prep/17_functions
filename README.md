@@ -84,10 +84,10 @@ Complétez votre bibliothèque de formes avec les fonctions suivantes :
    - Affiche un triangle rectangle inversé
    - Exemple pour hauteur=4 :
      ```
+        *
+       **
+      ***
      ****
-     ***
-     **
-     *
      ```
 
 2. Une fonction `dessiner_carre_vide` qui :
