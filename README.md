@@ -115,7 +115,7 @@ Votre programme doit afficher un menu interactif et produire des résultats simi
 7. Carré vide
 8. Forme personnalisée
 0. Quitter
-Choisissez une forme (0-9) : 2
+Choisissez une forme (0-8) : 2
 
 --- Dessin de rectangle ---
 Entrez la largeur : 6
@@ -136,7 +136,7 @@ Entrez le symbole : #
 7. Carré vide
 8. Forme personnalisée
 0. Quitter
-Choisissez une forme (0-9) : 5
+Choisissez une forme (0-8) : 5
 
 --- Dessin de rectangle vide ---
 Entrez la largeur : 6
@@ -157,14 +157,17 @@ Entrez le symbole : #
 7. Carré vide
 8. Forme personnalisée
 0. Quitter
-Choisissez une forme (0-9) : 9
+Choisissez une forme (0-8) : 8
 
 --- Dessin de forme personnalisée ---
-  ^
- ^^^
-^^^^^
- |||
- |||
+Entrez la largeur : 5
+Entrez la hauteur : 4
+Entrez le symbole : *
+
+    *****
+   *******
+  *********
+ ***********
 
 === BIBLIOTHÈQUE DE FORMES GÉOMÉTRIQUES ===
 1. Ligne
@@ -176,7 +179,7 @@ Choisissez une forme (0-9) : 9
 7. Carré vide
 8. Forme personnalisée
 0. Quitter
-Choisissez une forme (0-9) : 0
+Choisissez une forme (0-8) : 0
 
 Merci d'avoir utilisé la bibliothèque de formes!
 ```
@@ -190,7 +193,7 @@ Merci d'avoir utilisé la bibliothèque de formes!
 - Utilisez une boucle do-while pour le menu afin qu'il s'affiche au moins une fois
 - Pratiquez la réutilisation du code : plusieurs fonctions peuvent appeler des fonctions plus simples
 
-## Pour Aller Plus Loin
+## Pour aller plus loin
 
 Si vous souhaitez approfondir ce projet, vous pourriez explorer :
 
